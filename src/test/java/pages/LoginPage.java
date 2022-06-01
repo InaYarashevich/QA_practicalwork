@@ -15,5 +15,4 @@ public class LoginPage extends Base {
         driver.findElement(By.cssSelector(LOGIN_BUTTON_CSS)).click();
 
     }
-
 }
