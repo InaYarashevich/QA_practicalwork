@@ -1,0 +1,11 @@
+driver\Config.class
+pages\Homepage.class
+pages\LoginPage.class
+pages\RegistrationPage.class
+driver\Driver.class
+driver\DriverManager$1.class
+driver\DriverManager.class
+runners\JUnit4Runner.class
+tests\LoginTest.class
+pages\Base.class
+pages\MainPage.class

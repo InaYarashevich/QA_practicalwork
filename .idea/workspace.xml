@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e6e53dcf-c247-481e-91b5-5bd9eb43a8e6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Base.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/gui/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/gui/LoginTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +57,7 @@
       <recent name="C:\Users\IT0054\QA_practicalwork\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RegistrationTest.registerTest">
+  <component name="RunManager" selected="JUnit.LoginTest.loginWithEmailPassword">
     <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pages.Base" />
       <module name="QA_practicalwork" />
@@ -124,8 +120,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RegistrationTest.registerTest" />
         <item itemvalue="JUnit.LoginTest.loginWithEmailPassword" />
+        <item itemvalue="JUnit.RegistrationTest.registerTest" />
         <item itemvalue="Application.Base" />
         <item itemvalue="JUnit.LoginTest" />
       </list>

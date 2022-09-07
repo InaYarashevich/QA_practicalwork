@@ -1,0 +1,38 @@
+Test plan
+
+1. Scope of work:
+- System testing
+- Acceptance testing
+Test types:
+- Functional testing
+- Non-functional testing (cross-browser testing)
+
+2. Feature to be tested:
+- Login functionality
+
+3. Test levels:
+- Smoke test
+- Critical path test
+- Extended test
+
+4. Test methods:
+Test cases will be used for testing the Login functionality.
+
+5. Quality and Acceptance criteria:
+Quality Criteria for Product:
+- The product should work according to the requirements stored in the provided PDF.
+- The product should not have bugs with severity Critical and Major (if other not mentioned).
+Feature acceptance criteria:
+- Smoke test case can be passed successfully.
+- Functionality works correctly and has no serious faults (Critical and Major) (if other not mentioned).
+
+6. Test artifacts:
+- Test plan
+- Test cases
+
+7. Resources:
+Browsers:
+- Google Chrome, Firefox, Safari // actually, I'd ask for detailed requirements which browsers should be supported by the system;
+- Windows 10 // the same comment as above
+- Android, iOS platforms (mobile browsers) // in case of mobile testing
+- Android, iOS apps
